@@ -35,7 +35,7 @@ This course is designed to help you master PostgreSQL from scratch in 30 days. E
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/postgresql-30-days-course.git
+   git@github.com:mohitsharma614/mohitsharma614-PostgreSQL-30days-course.git
 🙋‍♂️ Author
 Mohit Sharma
 📍 Jammu, India
